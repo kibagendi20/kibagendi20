@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kibagendi Wesley
-- 👀 I’m interested in Blockchain Technology and Web & Mobile Development 
-- 🌱 I’m currently learning Java & Android
-- 💞️ I’m looking to collaborate on Android, Springboot, Typescript, React and Machine Learning
+- 👋 Hi, I’m @kibagendi Wesley a Junior Software Engineer 
+- 👀 Currently ding Java Spring and Springboot
 - 📫 How to reach me Email: maingawesley@gmail.com, phone number +254768222182
 
 <!---
