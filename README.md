@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kibagendi Wesley a Junior Software Engineer 
-- 👀 Currently doing Java Spring and Springboot
+- 👀 Currently doing Flutter
 - 📫 How to reach me Email: maingawesley@gmail.com, phone number +254768222182
 
 <!---
