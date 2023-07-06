@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Junior Software Engineer 
+- 👋 Hi, I’m a Software Engineer 
 - 👀 Currently doing Flutter
 
 <!---
