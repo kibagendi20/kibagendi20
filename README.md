@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Software Engineer 
-- 👀 Currently doing Flutter
+- 👀 Looking to collaborate in Flutter and Springboot projects
 
 <!---
 
